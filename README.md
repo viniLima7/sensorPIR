@@ -4,7 +4,7 @@
 Este repositório serve para a entrega da atividade de IoT referente à integração de sensor de presença (PIR) e LED.
 
 **Link da Simulação**  
-* [Simulação no Tinkercad](https://www.tinkercad.com/things/13tUGcQjWcW-servo-motor) *(Lembre-se de atualizar o link caso tenha criado uma nova simulação especificamente para o PIR)*
+* [Simulação no Tinkercad](https://www.tinkercad.com/things/0sfPbYtXMSe-brilliant-densor)
 
 ---
 
